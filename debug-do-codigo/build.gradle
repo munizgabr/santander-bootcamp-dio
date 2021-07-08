@@ -1,9 +1,8 @@
 plugins {
     id 'java'
-
 }
 
-group 'one.digitalinnovation'
+group 'one.innovation.digital'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.11

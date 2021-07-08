@@ -4,7 +4,7 @@ public class Igualdade {
 
   public static void main(String[] args) {
 
-    final var numero = 11;
+    final var numero = 10;
 
     if (numero == 10) {
       System.out.println("O número é 10");
@@ -18,7 +18,7 @@ public class Igualdade {
       System.out.println("O número é 10");
     }
 
-    final var letra = "B";
+    final var letra = "A";
 
     if ("A".equals(letra)) {
       System.out.println("É a letra A");
